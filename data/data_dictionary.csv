@@ -1,0 +1,22 @@
+column,source_key_in_snapshot,page_label_en,type,allowed_values,description,release_rule
+name,naziv,Name,text,non-empty text,Name of the design system or UI library as listed by the author,
+type,type,Type,categorical,DS | UI biblioteka | DS (vlada/javni sektor),Organisation type of the listed system,
+measured,measured,Measured,categorical,yes | no (clone failed),yes = repository cloned and measured in the release evidence run; no (clone failed) = not measured; package fields are not_checked,
+token_format,token_format,Token format,categorical,none detected | free text list of formats,Design-token format detected in the repository,[reconstructed] token-named file with CSS custom properties or DTCG $value
+token_css_vars,token_css_vars,CSS vars,integer,non-negative integer | not_checked,Count of CSS custom properties in token files,[reconstructed] count of CSS custom property declarations in token files
+components_strict,components_strict,Components (strict),integer,non-negative integer | not_checked,Count of component folders under src/components that contain an entry file (index or same-name file); reconstructed rule,[reconstructed] component folders under src/components that contain an entry file (index.* or a file named after the folder)
+component_dirs,component_dirs,Component dirs (proxy; low validity),integer,non-negative integer | not_checked,"Count of component folders under src/components; a proxy with low validity, do not aggregate","[reconstructed] component folders under src/components (proxy, low validity)"
+stories_files,stories_files,Stories,integer,non-negative integer | not_checked,Number of story files,"[documented] files named *.stories.{js,jsx,ts,tsx,mdx}"
+storybook,storybook,Storybook,categorical,yes | no | not_checked,Storybook detected (.storybook folder or storybook dependency),[documented] yes if .storybook/ exists or a storybook package is a dependency
+code_connect_files,figma_code_connect_files,Code Connect files,integer,non-negative integer | not_checked,Figma Code Connect files found,"[documented] files named *.figma.{js,jsx,ts,tsx}"
+test_files,test_files,Test files,integer,non-negative integer | not_checked,Number of test files,[reconstructed] files named *.test.* or *.spec.* (JS/TS)
+visual_regression,visual_regression,Visual regression,text,none detected | comma-separated tool names,Visual regression tooling detected,[reconstructed] visual tool dependencies found
+a11y_dependencies,accessibility_testing,A11y deps,text,none detected | comma-separated tool names,Accessibility testing dependencies detected,[reconstructed] accessibility test dependencies found
+a11y_check_files,a11y_source_files,A11y in source,integer,non-negative integer | not_checked,"Count of JS/TS files (under 300 kB) that configure or call an accessibility checker. Different rule from the published a11y_source_files (text match), so the two are not comparable","[reconstructed] JS/TS files under 300 kB that configure or call an accessibility checker (axe-core, jest-axe, vitest-axe, pa11y, Storybook a11y addon)"
+codeowners,codeowners,CODEOWNERS,categorical,yes | no | not_checked,CODEOWNERS file present,"[documented] CODEOWNERS in root, .github/ or docs/"
+rfc_or_adr,rfc_or_adr,RFC/ADR,categorical,yes | no | not_checked,RFC or ADR records present,"[reconstructed] a directory named rfc(s), adr(s) or decisions"
+frameworks,frameworks,Frameworks,text,none detected | comma-separated framework names,UI frameworks detected,[reconstructed] framework dependencies found
+npm_exports_field,npm_exports_field,npm exports,categorical,yes | no | not_checked,package.json uses an exports field,[reconstructed] root package.json has an exports field
+semver_tags,tags_semver,Semver tags,integer,non-negative integer | not_checked,Count of tags that are semantic versions (prereleases included); not_checked when the clone failed,[documented] remote tags that are semantic versions (with or without v)
+latest_tag,latest_tag,Latest tag,text,empty | version string,Highest semantic version by precedence (release outranks its prereleases); empty when no semver tag exists,[documented] highest semantic version by precedence (semver 2.0.0)
+repository,repo,Repository,url,https://github.com/owner/repo,GitHub repository URL; compare case-insensitively,

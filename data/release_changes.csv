@@ -1,0 +1,637 @@
+name,repository,column,published,release
+Adobe Spectrum,https://github.com/adobe/react-spectrum,token_format,none detected,CSS custom properties
+Adobe Spectrum,https://github.com/adobe/react-spectrum,token_css_vars,0,362
+Adobe Spectrum,https://github.com/adobe/react-spectrum,component_dirs,116,0
+Adobe Spectrum,https://github.com/adobe/react-spectrum,stories_files,590,588
+Adobe Spectrum,https://github.com/adobe/react-spectrum,a11y_dependencies,addon-a11y,@storybook/addon-a11y
+Adobe Spectrum,https://github.com/adobe/react-spectrum,latest_tag,v2.27.0,2.27.0
+Ant Design,https://github.com/ant-design/ant-design,components_strict,84,0
+Ant Design,https://github.com/ant-design/ant-design,component_dirs,88,0
+Ant Design,https://github.com/ant-design/ant-design,a11y_dependencies,"jest-axe, eslint-plugin-jsx-a11y","eslint-plugin-jsx-a11y, jest-axe"
+Amplify UI,https://github.com/aws-amplify/amplify-ui,token_format,Style Dictionary; CSS custom properties,CSS custom properties
+Amplify UI,https://github.com/aws-amplify/amplify-ui,components_strict,102,17
+Amplify UI,https://github.com/aws-amplify/amplify-ui,component_dirs,132,292
+Appear Here Styleguide,https://github.com/appearhere/bloom,component_dirs,59,98
+Aragon UI,https://github.com/aragon/ui,components_strict,65,63
+Aragon UI,https://github.com/aragon/ui,component_dirs,67,72
+Artsy Palette,https://github.com/artsy/palette,token_format,none detected,CSS custom properties
+Artsy Palette,https://github.com/artsy/palette,token_css_vars,0,5
+Artsy Palette,https://github.com/artsy/palette,a11y_dependencies,addon-a11y,@storybook/addon-a11y
+AT UIKIT,https://github.com/at-ui/at-ui,component_dirs,48,79
+AutoGuru Overdrive,https://github.com/autoguru-au/overdrive,components_strict,83,0
+AutoGuru Overdrive,https://github.com/autoguru-au/overdrive,component_dirs,83,0
+AutoGuru Overdrive,https://github.com/autoguru-au/overdrive,stories_files,96,92
+AutoGuru Overdrive,https://github.com/autoguru-au/overdrive,a11y_dependencies,addon-a11y,@storybook/addon-a11y
+AWS Cloudscape Design System,https://github.com/cloudscape-design/components,components_strict,38,0
+AWS Cloudscape Design System,https://github.com/cloudscape-design/components,component_dirs,42,0
+AWS Cloudscape Design System,https://github.com/cloudscape-design/components,test_files,910,912
+AWS Cloudscape Design System,https://github.com/cloudscape-design/components,semver_tags,1285,1287
+AWS Cloudscape Design System,https://github.com/cloudscape-design/components,latest_tag,3.0.1417,3.0.1419
+Backpack (Skyscanner),https://github.com/skyscanner/backpack,token_format,DTCG ($value); Style Dictionary; CSS custom properties,CSS custom properties
+Backpack (Skyscanner),https://github.com/skyscanner/backpack,token_css_vars,413,384
+Backpack (Skyscanner),https://github.com/skyscanner/backpack,visual_regression,percy,none detected
+Backpack (Skyscanner),https://github.com/skyscanner/backpack,a11y_dependencies,"jest-axe, addon-a11y","@storybook/addon-a11y, jest-axe"
+Basis Design System,https://github.com/moroshko/basis,components_strict,30,0
+Basis Design System,https://github.com/moroshko/basis,component_dirs,33,1
+Basis Design System,https://github.com/moroshko/basis,visual_regression,percy,none detected
+Bento DS,https://github.com/buildo/bento-design-system,component_dirs,4,0
+Blueprint,https://github.com/palantir/blueprint,token_format,DTCG ($value); Style Dictionary,DTCG ($value)
+Blueprint,https://github.com/palantir/blueprint,stories_files,56,57
+Blueprint,https://github.com/palantir/blueprint,a11y_dependencies,"eslint-plugin-jsx-a11y, addon-a11y","@storybook/addon-a11y, eslint-plugin-jsx-a11y"
+Bold (Bridge Design System),https://github.com/laboratoriobridge/bold,components_strict,58,56
+Bold (Bridge Design System),https://github.com/laboratoriobridge/bold,component_dirs,88,150
+Bold (Bridge Design System),https://github.com/laboratoriobridge/bold,a11y_dependencies,"eslint-plugin-jsx-a11y, addon-a11y","@storybook/addon-a11y, eslint-plugin-jsx-a11y"
+Bold (Bridge Design System),https://github.com/laboratoriobridge/bold,semver_tags,211,212
+Bold (Bridge Design System),https://github.com/laboratoriobridge/bold,latest_tag,v1.4.0,v1.4.1
+Braid Design System,https://github.com/seek-oss/braid-design-system,components_strict,79,6
+Braid Design System,https://github.com/seek-oss/braid-design-system,component_dirs,82,7
+Braid Design System,https://github.com/seek-oss/braid-design-system,storybook,no,yes
+Buildit Gravity,https://github.com/buildit/gravity-ui-web,component_dirs,8,104
+Buildit Gravity,https://github.com/buildit/gravity-ui-web,semver_tags,25,24
+Bumbag UI,https://github.com/bumbag/bumbag-ui,component_dirs,4,0
+Cedar (REI),https://github.com/rei/rei-cedar,token_css_vars,211,221
+Cedar (REI),https://github.com/rei/rei-cedar,components_strict,37,1
+Cedar (REI),https://github.com/rei/rei-cedar,component_dirs,51,302
+Cedar (REI),https://github.com/rei/rei-cedar,stories_files,49,52
+Cedar (REI),https://github.com/rei/rei-cedar,visual_regression,"chromatic, @playwright/test, playwright","@playwright/test, chromatic"
+Cedar (REI),https://github.com/rei/rei-cedar,a11y_dependencies,"axe-core, addon-a11y, @axe-core",@storybook/addon-a11y
+Chakra UI,https://github.com/chakra-ui/chakra-ui,components_strict,118,117
+Chakra UI,https://github.com/chakra-ui/chakra-ui,component_dirs,127,117
+Chakra UI,https://github.com/chakra-ui/chakra-ui,a11y_dependencies,"vitest-axe, eslint-plugin-jsx-a11y, addon-a11y","@storybook/addon-a11y, eslint-plugin-jsx-a11y, vitest-axe"
+City of Boston Fleet,https://github.com/CityOfBoston/digital,storybook,yes,no
+City of Boston Fleet,https://github.com/CityOfBoston/digital,visual_regression,percy,none detected
+City of Boston Fleet,https://github.com/CityOfBoston/digital,a11y_dependencies,addon-a11y,none detected
+City of Boston Fleet,https://github.com/CityOfBoston/digital,frameworks,React,none detected
+Contentful Forma 36,https://github.com/contentful/forma-36,components_strict,48,0
+Contentful Forma 36,https://github.com/contentful/forma-36,component_dirs,49,0
+Contentful Forma 36,https://github.com/contentful/forma-36,test_files,117,118
+Contentful Forma 36,https://github.com/contentful/forma-36,a11y_dependencies,"axe-core, eslint-plugin-jsx-a11y, addon-a11y","@storybook/addon-a11y, axe-core, eslint-plugin-jsx-a11y"
+Decathlon Vitamin,https://github.com/decathlon/vitamin-web,token_format,CSS custom properties,none detected
+Decathlon Vitamin,https://github.com/decathlon/vitamin-web,token_css_vars,1237,0
+Decathlon Vitamin,https://github.com/decathlon/vitamin-web,components_strict,14,0
+Decathlon Vitamin,https://github.com/decathlon/vitamin-web,component_dirs,63,0
+Decathlon Vitamin,https://github.com/decathlon/vitamin-web,stories_files,141,107
+Decathlon Vitamin,https://github.com/decathlon/vitamin-web,test_files,39,38
+Decathlon Vitamin,https://github.com/decathlon/vitamin-web,frameworks,"React, Svelte",Svelte
+Decentraland UI,https://github.com/decentraland/ui,token_format,none detected,CSS custom properties
+Decentraland UI,https://github.com/decentraland/ui,token_css_vars,0,147
+Decentraland UI,https://github.com/decentraland/ui,components_strict,94,93
+Decentraland UI,https://github.com/decentraland/ui,component_dirs,94,114
+Decentraland UI,https://github.com/decentraland/ui,a11y_dependencies,addon-a11y,@storybook/addon-a11y
+eBay Skin,https://github.com/eBay/skin,token_format,CSS custom properties,none detected
+eBay Skin,https://github.com/eBay/skin,token_css_vars,457,0
+eBay Skin,https://github.com/eBay/skin,visual_regression,percy,none detected
+Elastic EUI,https://github.com/elastic/eui,components_strict,106,102
+Elastic EUI,https://github.com/elastic/eui,component_dirs,164,414
+Elastic EUI,https://github.com/elastic/eui,test_files,581,586
+Elastic EUI,https://github.com/elastic/eui,visual_regression,"@playwright/test, playwright",@playwright/test
+Evergreen,https://github.com/segmentio/evergreen,components_strict,3,0
+Evergreen,https://github.com/segmentio/evergreen,component_dirs,7,0
+Firefox Photon,https://github.com/FirefoxUX/photon,component_dirs,7,0
+Flowbite,https://github.com/themesberg/flowbite,token_format,none detected,CSS custom properties
+Flowbite,https://github.com/themesberg/flowbite,token_css_vars,0,945
+Flowbite,https://github.com/themesberg/flowbite,semver_tags,57,56
+Fluent UI,https://github.com/microsoft/fluentui,token_css_vars,108,120
+Fluent UI,https://github.com/microsoft/fluentui,components_strict,501,122
+Fluent UI,https://github.com/microsoft/fluentui,component_dirs,511,278
+Fluent UI,https://github.com/microsoft/fluentui,stories_files,1874,1852
+Fluent UI,https://github.com/microsoft/fluentui,a11y_dependencies,"axe-core, jest-axe, eslint-plugin-jsx-a11y, addon-a11y","@storybook/addon-a11y, eslint-plugin-jsx-a11y, jest-axe"
+Foundation,https://github.com/foundation/foundation-sites,token_css_vars,362,33
+Foundation,https://github.com/foundation/foundation-sites,a11y_dependencies,"axe-core, @axe-core",none detected
+Foundation,https://github.com/foundation/foundation-sites,semver_tags,152,135
+French Government Design System (DSFR),https://github.com/GouvernementFR/dsfr,semver_tags,59,58
+GitHub Primer,https://github.com/primer/primer,component_dirs,1,0
+GitHub Primer,https://github.com/primer/primer,stories_files,70,38
+GOV.UK Design System,https://github.com/alphagov/govuk-design-system,component_dirs,37,184
+GOV.UK Design System,https://github.com/alphagov/govuk-design-system,a11y_dependencies,"axe-core, jest-axe, @axe-core",jest-axe
+Gympass Yoga,https://github.com/gympass/yoga,component_dirs,63,25
+HashiCorp Helios,https://github.com/hashicorp/design-system,token_format,DTCG ($value); Style Dictionary; CSS custom properties,DTCG ($value)
+HashiCorp Helios,https://github.com/hashicorp/design-system,token_css_vars,7950,89
+HashiCorp Helios,https://github.com/hashicorp/design-system,components_strict,2,0
+HashiCorp Helios,https://github.com/hashicorp/design-system,component_dirs,174,96
+HashiCorp Helios,https://github.com/hashicorp/design-system,visual_regression,percy,none detected
+Grommet,https://github.com/grommet/grommet,components_strict,100,0
+Grommet,https://github.com/grommet/grommet,component_dirs,101,0
+Grommet,https://github.com/grommet/grommet,stories_files,578,581
+Grommet,https://github.com/grommet/grommet,storybook,no,yes
+Grommet,https://github.com/grommet/grommet,a11y_dependencies,"jest-axe, eslint-plugin-jsx-a11y, addon-a11y","@storybook/addon-a11y, eslint-plugin-jsx-a11y, jest-axe"
+HubSpot Canvas,https://github.com/HubSpot/canvas,components_strict,1,0
+HubSpot Canvas,https://github.com/HubSpot/canvas,component_dirs,1,0
+IBM Carbon,https://github.com/ibm/carbon-components,token_format,DTCG ($value); CSS custom properties,DTCG ($value)
+IBM Carbon,https://github.com/ibm/carbon-components,token_css_vars,2,3
+IBM Carbon,https://github.com/ibm/carbon-components,components_strict,309,243
+IBM Carbon,https://github.com/ibm/carbon-components,component_dirs,716,614
+IBM Carbon,https://github.com/ibm/carbon-components,stories_files,323,317
+IBM Carbon,https://github.com/ibm/carbon-components,a11y_dependencies,"eslint-plugin-jsx-a11y, addon-a11y","@storybook/addon-a11y, eslint-plugin-jsx-a11y"
+IBM Carbon,https://github.com/ibm/carbon-components,semver_tags,1138,1140
+IBM Carbon,https://github.com/ibm/carbon-components,latest_tag,v12.0.0-alpha.9,v12.0.0-alpha.11
+JetBrains Ring UI,https://github.com/JetBrains/ring-ui,component_dirs,122,0
+JetBrains Ring UI,https://github.com/JetBrains/ring-ui,visual_regression,playwright,none detected
+JetBrains Ring UI,https://github.com/JetBrains/ring-ui,a11y_dependencies,"eslint-plugin-jsx-a11y, addon-a11y","@storybook/addon-a11y, eslint-plugin-jsx-a11y"
+JetBrains Ring UI,https://github.com/JetBrains/ring-ui,latest_tag,v8.0.0-beta.9,v8.0.0-beta.14
+Just Eat Takeaway.com PIE,https://github.com/justeattakeaway/pie,token_css_vars,1,74
+Just Eat Takeaway.com PIE,https://github.com/justeattakeaway/pie,components_strict,39,0
+Just Eat Takeaway.com PIE,https://github.com/justeattakeaway/pie,component_dirs,161,0
+Just Eat Takeaway.com PIE,https://github.com/justeattakeaway/pie,stories_files,152,81
+Just Eat Takeaway.com PIE,https://github.com/justeattakeaway/pie,storybook,yes,no
+Just Eat Takeaway.com PIE,https://github.com/justeattakeaway/pie,visual_regression,"@playwright/test, playwright",@playwright/test
+Just Eat Takeaway.com PIE,https://github.com/justeattakeaway/pie,a11y_dependencies,"axe-core, @axe-core",none detected
+Just Eat Takeaway.com PIE,https://github.com/justeattakeaway/pie,frameworks,Lit,none detected
+Kaizen (Culture Amp),https://github.com/cultureamp/kaizen-design-system,token_format,CSS custom properties,none detected
+Kaizen (Culture Amp),https://github.com/cultureamp/kaizen-design-system,token_css_vars,279,0
+Kaizen (Culture Amp),https://github.com/cultureamp/kaizen-design-system,components_strict,31,0
+Kaizen (Culture Amp),https://github.com/cultureamp/kaizen-design-system,component_dirs,40,0
+Kaizen (Culture Amp),https://github.com/cultureamp/kaizen-design-system,a11y_dependencies,"jest-axe, vitest-axe, eslint-plugin-jsx-a11y, addon-a11y","@storybook/addon-a11y, eslint-plugin-jsx-a11y, jest-axe, vitest-axe"
+KoliBri (Public-UI),https://github.com/public-ui/kolibri,token_css_vars,474,47
+KoliBri (Public-UI),https://github.com/public-ui/kolibri,components_strict,7,1
+KoliBri (Public-UI),https://github.com/public-ui/kolibri,component_dirs,114,135
+KoliBri (Public-UI),https://github.com/public-ui/kolibri,visual_regression,"@playwright/test, playwright",@playwright/test
+KoliBri (Public-UI),https://github.com/public-ui/kolibri,a11y_dependencies,"axe-core, eslint-plugin-jsx-a11y, @axe-core",none detected
+KoliBri (Public-UI),https://github.com/public-ui/kolibri,frameworks,"React, Vue, Angular, Svelte, Stencil",none detected
+KoliBri (Public-UI),https://github.com/public-ui/kolibri,semver_tags,355,357
+Kontur,https://github.com/skbkontur/retail-ui,token_format,none detected,CSS custom properties
+Kontur,https://github.com/skbkontur/retail-ui,token_css_vars,0,6
+Kontur,https://github.com/skbkontur/retail-ui,components_strict,53,1
+Kontur,https://github.com/skbkontur/retail-ui,component_dirs,58,4
+Kontur,https://github.com/skbkontur/retail-ui,visual_regression,"@playwright/test, playwright",@playwright/test
+Mantine,https://github.com/mantinedev/mantine,token_format,none detected,CSS custom properties
+Mantine,https://github.com/mantinedev/mantine,token_css_vars,0,6
+Mantine,https://github.com/mantinedev/mantine,components_strict,226,0
+Mantine,https://github.com/mantinedev/mantine,component_dirs,226,0
+Materialize CSS,https://github.com/Dogfalo/materialize,component_dirs,1,0
+Materialize CSS,https://github.com/Dogfalo/materialize,latest_tag,1.0.0-rc.2,1.0.0
+MongoDB Design System,https://github.com/mongodb/leafygreen-ui,components_strict,19,5
+Mozilla Protocol,https://github.com/mozilla/protocol,component_dirs,30,0
+New York State Design System,https://github.com/ITS-HCD/nysds,token_css_vars,0,1
+New York State Design System,https://github.com/ITS-HCD/nysds,stories_files,44,37
+New York State Design System,https://github.com/ITS-HCD/nysds,a11y_dependencies,"axe-core, addon-a11y","@storybook/addon-a11y, axe-core"
+New York State Design System,https://github.com/ITS-HCD/nysds,frameworks,"React, Vue, Lit","React, Vue, Angular, Lit"
+Okta Odyssey Design System,https://github.com/okta/odyssey,token_format,Style Dictionary,none detected
+Okta Odyssey Design System,https://github.com/okta/odyssey,storybook,yes,no
+Okta Odyssey Design System,https://github.com/okta/odyssey,visual_regression,playwright,none detected
+Okta Odyssey Design System,https://github.com/okta/odyssey,a11y_dependencies,"axe-core, eslint-plugin-jsx-a11y, addon-a11y",none detected
+Okta Odyssey Design System,https://github.com/okta/odyssey,frameworks,React,none detected
+Persona Design System,https://github.com/privy-open-source/design-system,components_strict,78,61
+Persona Design System,https://github.com/privy-open-source/design-system,component_dirs,89,151
+Persona Design System,https://github.com/privy-open-source/design-system,frameworks,"React, Vue",Vue
+Pharos (JSTOR),https://github.com/ithaka/pharos,token_format,Style Dictionary,none detected
+Pharos (JSTOR),https://github.com/ithaka/pharos,component_dirs,49,45
+Pharos (JSTOR),https://github.com/ithaka/pharos,a11y_dependencies,"axe-core, eslint-plugin-jsx-a11y, addon-a11y","@storybook/addon-a11y, axe-core, eslint-plugin-jsx-a11y"
+Pinterest Gestalt,https://github.com/pinterest/gestalt,token_format,Style Dictionary,none detected
+Pinterest Gestalt,https://github.com/pinterest/gestalt,visual_regression,"@playwright/test, playwright",@playwright/test
+Pinterest Gestalt,https://github.com/pinterest/gestalt,a11y_dependencies,"axe-core, eslint-plugin-jsx-a11y, @axe-core","axe-core, eslint-plugin-jsx-a11y"
+Pivotal,https://github.com/pivotal-cf/pivotal-ui,semver_tags,181,180
+Pluralsight Design System,https://github.com/pluralsight/design-system,components_strict,9,0
+Pluralsight Design System,https://github.com/pluralsight/design-system,component_dirs,11,0
+Pluralsight Design System,https://github.com/pluralsight/design-system,a11y_dependencies,"jest-axe, addon-a11y","@storybook/addon-a11y, jest-axe"
+Porsche Design System,https://github.com/porsche-design-system/porsche-design-system,components_strict,66,49
+Porsche Design System,https://github.com/porsche-design-system/porsche-design-system,component_dirs,133,215
+Porsche Design System,https://github.com/porsche-design-system/porsche-design-system,test_files,558,562
+Porsche Design System,https://github.com/porsche-design-system/porsche-design-system,visual_regression,"@playwright/test, playwright",@playwright/test
+Porsche Design System,https://github.com/porsche-design-system/porsche-design-system,a11y_dependencies,"axe-core, @axe-core",none detected
+Porsche Design System,https://github.com/porsche-design-system/porsche-design-system,frameworks,"React, Vue, Angular, Stencil","React, Vue, Angular"
+Priceline Design System,https://github.com/priceline/design-system,visual_regression,chromatic,none detected
+Priceline Design System,https://github.com/priceline/design-system,a11y_dependencies,"eslint-plugin-jsx-a11y, addon-a11y",none detected
+Radix,https://github.com/radix-ui/primitives,storybook,yes,no
+Radix,https://github.com/radix-ui/primitives,visual_regression,"@playwright/test, playwright",@playwright/test
+Radix,https://github.com/radix-ui/primitives,a11y_dependencies,"axe-core, vitest-axe, @axe-core","axe-core, vitest-axe"
+Rambler UI,https://github.com/rambler-digital-solutions/rambler-ui,component_dirs,32,0
+Rendition,https://github.com/balena-io-modules/rendition,component_dirs,57,114
+Salesforce Lightning Design System,https://github.com/salesforce-ux/design-system,components_strict,47,0
+Salesforce Lightning Design System,https://github.com/salesforce-ux/design-system,component_dirs,94,0
+Salesforce Lightning Design System,https://github.com/salesforce-ux/design-system,a11y_dependencies,"axe-core, addon-a11y, @axe-core","@storybook/addon-a11y, axe-core"
+Salesforce Lightning Design System,https://github.com/salesforce-ux/design-system,semver_tags,450,449
+Salesforce Lightning Design System,https://github.com/salesforce-ux/design-system,latest_tag,v3.0.0-alpha.9,v3.0.0-alpha-5
+Sage by Kajabi,https://github.com/Kajabi/sage-lib,token_format,Style Dictionary,none detected
+Sage by Kajabi,https://github.com/Kajabi/sage-lib,component_dirs,81,0
+Sage by Kajabi,https://github.com/Kajabi/sage-lib,a11y_dependencies,"eslint-plugin-jsx-a11y, addon-a11y","@storybook/addon-a11y, eslint-plugin-jsx-a11y"
+SAP OpenUI5,https://github.com/SAP/openui5,component_dirs,11,0
+SAP OpenUI5,https://github.com/SAP/openui5,semver_tags,1094,1095
+SEEK Style Guide,https://github.com/seek-oss/seek-style-guide,components_strict,8,0
+SEEK Style Guide,https://github.com/seek-oss/seek-style-guide,component_dirs,8,0
+Semi Design,https://github.com/DouyinFE/semi-design,token_format,none detected,CSS custom properties
+Semi Design,https://github.com/DouyinFE/semi-design,token_css_vars,0,195
+Semi Design,https://github.com/DouyinFE/semi-design,components_strict,42,29
+Semi Design,https://github.com/DouyinFE/semi-design,component_dirs,42,29
+Semi Design,https://github.com/DouyinFE/semi-design,a11y_dependencies,"eslint-plugin-jsx-a11y, addon-a11y","@storybook/addon-a11y, eslint-plugin-jsx-a11y"
+Semrush Intergalactic,https://github.com/semrush/intergalactic,token_format,none detected,CSS custom properties
+Semrush Intergalactic,https://github.com/semrush/intergalactic,token_css_vars,0,18
+Semrush Intergalactic,https://github.com/semrush/intergalactic,components_strict,48,0
+Semrush Intergalactic,https://github.com/semrush/intergalactic,component_dirs,164,0
+Semrush Intergalactic,https://github.com/semrush/intergalactic,stories_files,241,242
+Semrush Intergalactic,https://github.com/semrush/intergalactic,visual_regression,"chromatic, @playwright/test, playwright","@playwright/test, chromatic, playwright"
+Semrush Intergalactic,https://github.com/semrush/intergalactic,a11y_dependencies,"axe-core, addon-a11y",@storybook/addon-a11y
+Semrush Intergalactic,https://github.com/semrush/intergalactic,frameworks,React,"React, Vue"
+Semrush Intergalactic,https://github.com/semrush/intergalactic,latest_tag,v18.1.0-prerelease.3,v18.1.0
+Shopify Polaris,https://github.com/Shopify/polaris,components_strict,292,0
+Shopify Polaris,https://github.com/Shopify/polaris,component_dirs,317,0
+Shopify Polaris,https://github.com/Shopify/polaris,a11y_dependencies,addon-a11y,@storybook/addon-a11y
+Shadcn/ui,https://github.com/shadcn-ui/ui,token_format,none detected,CSS custom properties
+Shadcn/ui,https://github.com/shadcn-ui/ui,token_css_vars,0,911
+Shadcn/ui,https://github.com/shadcn-ui/ui,components_strict,1,0
+Shadcn/ui,https://github.com/shadcn-ui/ui,component_dirs,5,0
+Siemens iX,https://github.com/siemens/ix,token_format,none detected,CSS custom properties
+Siemens iX,https://github.com/siemens/ix,token_css_vars,0,9
+Siemens iX,https://github.com/siemens/ix,components_strict,120,119
+Siemens iX,https://github.com/siemens/ix,component_dirs,121,222
+Siemens iX,https://github.com/siemens/ix,stories_files,132,131
+Siemens iX,https://github.com/siemens/ix,test_files,627,622
+Siemens iX,https://github.com/siemens/ix,a11y_dependencies,"axe-core, addon-a11y, @axe-core",@storybook/addon-a11y
+Siemens iX,https://github.com/siemens/ix,frameworks,"React, Vue, Angular, Lit, Stencil","React, Vue, Angular, Lit"
+Singapore Government Design System,https://github.com/govtechsg/sgds,component_dirs,10,0
+Stacks (Stack Overflow),https://github.com/StackExchange/Stacks,components_strict,34,0
+Stacks (Stack Overflow),https://github.com/StackExchange/Stacks,component_dirs,66,28
+Stacks (Stack Overflow),https://github.com/StackExchange/Stacks,stories_files,26,0
+Stacks (Stack Overflow),https://github.com/StackExchange/Stacks,visual_regression,playwright,none detected
+Stacks (Stack Overflow),https://github.com/StackExchange/Stacks,a11y_dependencies,addon-a11y,@storybook/addon-a11y
+Strapi Design System,https://github.com/strapi/design-system,token_format,none detected,CSS custom properties
+Strapi Design System,https://github.com/strapi/design-system,token_css_vars,0,85
+Strapi Design System,https://github.com/strapi/design-system,components_strict,49,48
+Strapi Design System,https://github.com/strapi/design-system,component_dirs,49,52
+Strapi Design System,https://github.com/strapi/design-system,stories_files,133,57
+Strapi Design System,https://github.com/strapi/design-system,a11y_dependencies,addon-a11y,@storybook/addon-a11y
+Thumbprint,https://github.com/thumbtack/thumbprint,components_strict,75,0
+Thumbprint,https://github.com/thumbtack/thumbprint,component_dirs,126,0
+Twilio Paste,https://github.com/twilio-labs/paste,components_strict,101,11
+Twilio Paste,https://github.com/twilio-labs/paste,component_dirs,194,39
+Twilio Paste,https://github.com/twilio-labs/paste,a11y_dependencies,"eslint-plugin-jsx-a11y, addon-a11y","@storybook/addon-a11y, eslint-plugin-jsx-a11y"
+Uber Base Web,https://github.com/uber-web/baseui,components_strict,2,0
+Uber Base Web,https://github.com/uber-web/baseui,component_dirs,3,0
+Ubuntu Vanilla framework,https://github.com/canonical-web-and-design/vanilla-framework,token_format,DTCG ($value); Style Dictionary,CSS custom properties
+Ubuntu Vanilla framework,https://github.com/canonical-web-and-design/vanilla-framework,token_css_vars,0,9
+Ubuntu Vanilla framework,https://github.com/canonical-web-and-design/vanilla-framework,visual_regression,percy,none detected
+Ubuntu Vanilla framework,https://github.com/canonical-web-and-design/vanilla-framework,semver_tags,310,311
+Ubuntu Vanilla framework,https://github.com/canonical-web-and-design/vanilla-framework,latest_tag,v4.61.0,v4.62.2
+Untitled UI (React),https://github.com/untitleduico/react,token_format,none detected,CSS custom properties
+Untitled UI (React),https://github.com/untitleduico/react,token_css_vars,0,697
+Untitled UI (React),https://github.com/untitleduico/react,components_strict,3,0
+Untitled UI (React),https://github.com/untitleduico/react,component_dirs,5,0
+uSwitch style guide,https://github.com/uswitch/ustyle,semver_tags,190,178
+U.S. Web Design Standards (USWDS),https://github.com/uswds/uswds,a11y_dependencies,addon-a11y,@storybook/addon-a11y
+Vibe (monday.com),https://github.com/mondaycom/vibe,token_css_vars,147,810
+Vibe (monday.com),https://github.com/mondaycom/vibe,components_strict,118,29
+Vibe (monday.com),https://github.com/mondaycom/vibe,component_dirs,181,51
+Vibe (monday.com),https://github.com/mondaycom/vibe,stories_files,140,118
+Vibe (monday.com),https://github.com/mondaycom/vibe,visual_regression,none detected,"@playwright/test, chromatic, playwright"
+Vibe (monday.com),https://github.com/mondaycom/vibe,a11y_dependencies,none detected,"@storybook/addon-a11y, eslint-plugin-jsx-a11y, jest-axe"
+Vibe (monday.com),https://github.com/mondaycom/vibe,semver_tags,768,737
+Vimeo Iris,https://github.com/vimeo/iris,components_strict,27,26
+Vimeo Iris,https://github.com/vimeo/iris,component_dirs,27,55
+Vimeo Iris,https://github.com/vimeo/iris,a11y_dependencies,"eslint-plugin-jsx-a11y, addon-a11y","@storybook/addon-a11y, eslint-plugin-jsx-a11y"
+VMware Clarity,https://github.com/vmware/clarity,token_format,none detected,CSS custom properties
+VMware Clarity,https://github.com/vmware/clarity,token_css_vars,0,116
+VMware Clarity,https://github.com/vmware/clarity,storybook,yes,no
+VMware Clarity,https://github.com/vmware/clarity,visual_regression,none detected,playwright
+VMware Clarity,https://github.com/vmware/clarity,frameworks,"React, Lit","React, Angular, Lit"
+VTEX Styleguide,https://github.com/vtex/styleguide,components_strict,64,0
+VTEX Styleguide,https://github.com/vtex/styleguide,component_dirs,64,0
+VTEX Styleguide,https://github.com/vtex/styleguide,a11y_dependencies,addon-a11y,@storybook/addon-a11y
+Vue Design System,https://github.com/viljamis/vue-design-system,component_dirs,2,0
+Ray (WeWork),https://github.com/wework/ray,component_dirs,57,62
+Ray (WeWork),https://github.com/wework/ray,a11y_dependencies,addon-a11y,@storybook/addon-a11y
+Welcome UI,https://github.com/WTTJ/welcome-ui,token_format,DTCG ($value); Style Dictionary; CSS custom properties,CSS custom properties
+Welcome UI,https://github.com/WTTJ/welcome-ui,token_css_vars,9,1813
+Welcome UI,https://github.com/WTTJ/welcome-ui,components_strict,68,0
+Welcome UI,https://github.com/WTTJ/welcome-ui,component_dirs,73,0
+Welcome UI,https://github.com/WTTJ/welcome-ui,semver_tags,836,837
+Welcome UI,https://github.com/WTTJ/welcome-ui,latest_tag,v10.7.5,v10.7.6
+West Midlands Network Design System,https://github.com/wmcadigital/wmn-design-system,component_dirs,49,0
+Workday Canvas,https://github.com/Workday/canvas-kit,stories_files,209,129
+Workday Canvas,https://github.com/Workday/canvas-kit,visual_regression,chromatic,none detected
+Zendesk Garden,https://github.com/zendeskgarden/react-components,storybook,no,yes
+Zendesk Garden,https://github.com/zendeskgarden/react-components,a11y_dependencies,addon-a11y,@storybook/addon-a11y
+UMD Design System,https://github.com/umd-digital/design-system,components_strict,2,0
+UMD Design System,https://github.com/umd-digital/design-system,component_dirs,5,0
+WayneUI (Wayne State University),https://github.com/waynestate/wayne-ui,token_format,DTCG ($value),CSS custom properties
+WayneUI (Wayne State University),https://github.com/waynestate/wayne-ui,token_css_vars,0,34
+WayneUI (Wayne State University),https://github.com/waynestate/wayne-ui,component_dirs,52,0
+WayneUI (Wayne State University),https://github.com/waynestate/wayne-ui,visual_regression,"@playwright/test, playwright",none detected
+WayneUI (Wayne State University),https://github.com/waynestate/wayne-ui,a11y_dependencies,"axe-core, vitest-axe, @axe-core","axe-core, vitest-axe"
+ASU Unity Stack (Arizona State University),https://github.com/asu/asu-unity-stack,components_strict,101,50
+ASU Unity Stack (Arizona State University),https://github.com/asu/asu-unity-stack,component_dirs,102,104
+ASU Unity Stack (Arizona State University),https://github.com/asu/asu-unity-stack,stories_files,130,117
+ASU Unity Stack (Arizona State University),https://github.com/asu/asu-unity-stack,a11y_dependencies,"eslint-plugin-jsx-a11y, addon-a11y","@storybook/addon-a11y, eslint-plugin-jsx-a11y"
+Iowa Design System (UIDS),https://github.com/uiowa/uids,token_format,DTCG ($value); Style Dictionary,none detected
+Iowa Design System (UIDS),https://github.com/uiowa/uids,components_strict,19,17
+nulib design-system (Northwestern University Libraries),https://github.com/nulib/design-system,components_strict,9,0
+nulib design-system (Northwestern University Libraries),https://github.com/nulib/design-system,component_dirs,9,0
+Chan Zuckerberg Education Design System (EDS),https://github.com/chanzuckerberg/edu-design-system,token_format,Style Dictionary; CSS custom properties,none detected
+Chan Zuckerberg Education Design System (EDS),https://github.com/chanzuckerberg/edu-design-system,token_css_vars,920,0
+Chan Zuckerberg Education Design System (EDS),https://github.com/chanzuckerberg/edu-design-system,component_dirs,51,98
+Chan Zuckerberg Education Design System (EDS),https://github.com/chanzuckerberg/edu-design-system,a11y_dependencies,"eslint-plugin-jsx-a11y, addon-a11y","@storybook/addon-a11y, eslint-plugin-jsx-a11y"
+ONS Design System (Office for National Statistics),https://github.com/ONSdigital/design-system,component_dirs,72,71
+ONS Design System (Office for National Statistics),https://github.com/ONSdigital/design-system,visual_regression,backstop,none detected
+ONS Design System (Office for National Statistics),https://github.com/ONSdigital/design-system,latest_tag,74.0.0-widen.1,74.0.0
+The National Archives Design System,https://github.com/nationalarchives/tna-frontend,components_strict,17,0
+The National Archives Design System,https://github.com/nationalarchives/tna-frontend,component_dirs,37,0
+The National Archives Design System,https://github.com/nationalarchives/tna-frontend,a11y_dependencies,addon-a11y,@storybook/addon-a11y
+California Design System,https://github.com/cagov/design-system,components_strict,12,0
+California Design System,https://github.com/cagov/design-system,component_dirs,22,0
+California Design System,https://github.com/cagov/design-system,frameworks,Lit,none detected
+B.C. Government Design System,https://github.com/bcgov/design-system,token_format,Style Dictionary,none detected
+B.C. Government Design System,https://github.com/bcgov/design-system,components_strict,42,41
+B.C. Government Design System,https://github.com/bcgov/design-system,component_dirs,63,62
+B.C. Government Design System,https://github.com/bcgov/design-system,stories_files,74,40
+B.C. Government Design System,https://github.com/bcgov/design-system,a11y_dependencies,addon-a11y,@storybook/addon-a11y
+B.C. Government Design System,https://github.com/bcgov/design-system,npm_exports_field,no,yes
+Scale (Deutsche Telekom),https://github.com/telekom/scale,component_dirs,106,154
+Scale (Deutsche Telekom),https://github.com/telekom/scale,visual_regression,"@playwright/test, playwright",@playwright/test
+Scale (Deutsche Telekom),https://github.com/telekom/scale,frameworks,"React, Vue, Angular, Stencil","React, Vue"
+Scale (Deutsche Telekom),https://github.com/telekom/scale,latest_tag,v3.0.0-beta.9,3.0.0-beta.162
+TDS core legacy v2 (TELUS),https://github.com/telus/tds-core-legacy-v2,components_strict,6,0
+TDS core legacy v2 (TELUS),https://github.com/telus/tds-core-legacy-v2,component_dirs,47,0
+CFPB Design System,https://github.com/cfpb/design-system,token_format,DTCG ($value); Style Dictionary,none detected
+CFPB Design System,https://github.com/cfpb/design-system,component_dirs,11,13
+CFPB Design System,https://github.com/cfpb/design-system,visual_regression,"@playwright/test, playwright",@playwright/test
+CFPB Design System,https://github.com/cfpb/design-system,a11y_dependencies,"eslint-plugin-jsx-a11y, addon-a11y","@storybook/addon-a11y, eslint-plugin-jsx-a11y"
+CFPB Design System,https://github.com/cfpb/design-system,semver_tags,224,225
+CFPB Design System,https://github.com/cfpb/design-system,latest_tag,v5.10.3,v5.10.4
+"Design System (CMS, ds-medicare-gov and related packages)",https://github.com/CMSgov/design-system,token_css_vars,0,1946
+"Design System (CMS, ds-medicare-gov and related packages)",https://github.com/CMSgov/design-system,components_strict,54,52
+"Design System (CMS, ds-medicare-gov and related packages)",https://github.com/CMSgov/design-system,component_dirs,67,158
+"Design System (CMS, ds-medicare-gov and related packages)",https://github.com/CMSgov/design-system,a11y_dependencies,"axe-core, eslint-plugin-jsx-a11y, @axe-core",eslint-plugin-jsx-a11y
+"Design System (CMS, ds-medicare-gov and related packages)",https://github.com/CMSgov/design-system,frameworks,"React, Angular",React
+Storefront UI (Vue Storefront),https://github.com/vuestorefront/storefront-ui,components_strict,54,0
+Storefront UI (Vue Storefront),https://github.com/vuestorefront/storefront-ui,component_dirs,92,0
+Storefront UI (Vue Storefront),https://github.com/vuestorefront/storefront-ui,a11y_dependencies,eslint-plugin-jsx-a11y,none detected
+Storefront UI (Vue Storefront),https://github.com/vuestorefront/storefront-ui,frameworks,"React, Vue",none detected
+Lion (ING),https://github.com/ing-bank/lion,token_format,none detected,CSS custom properties
+Lion (ING),https://github.com/ing-bank/lion,token_css_vars,0,20
+Lion (ING),https://github.com/ing-bank/lion,components_strict,16,0
+Lion (ING),https://github.com/ing-bank/lion,component_dirs,96,0
+Iress Design System (IDS),https://github.com/iress/design-system,token_format,Style Dictionary,none detected
+Iress Design System (IDS),https://github.com/iress/design-system,components_strict,56,54
+Iress Design System (IDS),https://github.com/iress/design-system,component_dirs,60,178
+Iress Design System (IDS),https://github.com/iress/design-system,a11y_dependencies,"jest-axe, addon-a11y","@storybook/addon-a11y, jest-axe"
+Orange Unified Design System (OUDS) Android,https://github.com/Orange-OpenSource/ouds-android,component_dirs,25,0
+NHS Digital website design system,https://github.com/NHS-digital-website/design-system,token_format,none detected,CSS custom properties
+NHS Digital website design system,https://github.com/NHS-digital-website/design-system,token_css_vars,0,7
+NHS Digital website design system,https://github.com/NHS-digital-website/design-system,component_dirs,4,0
+NHS Digital website design system,https://github.com/NHS-digital-website/design-system,a11y_dependencies,addon-a11y,@storybook/addon-a11y
+Design System Docs (University of Michigan Library),https://github.com/mlibrary/design-system-docs,token_css_vars,84,266
+SpareBank 1 Design System,https://github.com/SpareBank1/designsystem,token_format,DTCG ($value),none detected
+SpareBank 1 Design System,https://github.com/SpareBank1/designsystem,components_strict,1,0
+SpareBank 1 Design System,https://github.com/SpareBank1/designsystem,stories_files,77,95
+SpareBank 1 Design System,https://github.com/SpareBank1/designsystem,test_files,80,119
+SpareBank 1 Design System,https://github.com/SpareBank1/designsystem,visual_regression,"@playwright/test, playwright",@playwright/test
+SpareBank 1 Design System,https://github.com/SpareBank1/designsystem,a11y_dependencies,"axe-core, @axe-core",none detected
+SpareBank 1 Design System,https://github.com/SpareBank1/designsystem,codeowners,no,yes
+SpareBank 1 Design System,https://github.com/SpareBank1/designsystem,semver_tags,67,68
+SpareBank 1 Design System,https://github.com/SpareBank1/designsystem,latest_tag,v102.0.15,v102.0.16
+Mistica Web (Telefónica),https://github.com/Telefonica/mistica-web,a11y_dependencies,"axe-core, @axe-core",none detected
+Mistica Web (Telefónica),https://github.com/Telefonica/mistica-web,latest_tag,v18.0.0-beta.3,v18.0.0
+Meteor (Shopware),https://github.com/shopware/meteor,token_format,DTCG ($value); CSS custom properties,DTCG ($value)
+Meteor (Shopware),https://github.com/shopware/meteor,token_css_vars,748,9
+Meteor (Shopware),https://github.com/shopware/meteor,components_strict,59,0
+Meteor (Shopware),https://github.com/shopware/meteor,component_dirs,64,89
+Meteor (Shopware),https://github.com/shopware/meteor,visual_regression,"@playwright/test, playwright",@playwright/test
+Meteor (Shopware),https://github.com/shopware/meteor,a11y_dependencies,addon-a11y,@storybook/addon-a11y
+OTTO B2B Design System,https://github.com/otto-de/b2b-design-system,token_format,Style Dictionary,none detected
+OTTO B2B Design System,https://github.com/otto-de/b2b-design-system,component_dirs,53,74
+OTTO B2B Design System,https://github.com/otto-de/b2b-design-system,frameworks,"React, Lit, Stencil","React, Lit"
+Orange Design System iOS,https://github.com/Orange-OpenSource/ods-ios,component_dirs,18,0
+Lunar (Airbnb),https://github.com/airbnb/lunar,component_dirs,152,139
+Lunar (Airbnb),https://github.com/airbnb/lunar,a11y_dependencies,addon-a11y,@storybook/addon-a11y
+Travelmakers Design System,https://github.com/travelmakers/travelmakers-design,component_dirs,44,90
+Travelmakers Design System,https://github.com/travelmakers/travelmakers-design,storybook,no,yes
+Travelmakers Design System,https://github.com/travelmakers/travelmakers-design,a11y_dependencies,addon-a11y,@storybook/addon-a11y
+Wonder Blocks (Khan Academy),https://github.com/Khan/wonder-blocks,component_dirs,33,34
+Wonder Blocks (Khan Academy),https://github.com/Khan/wonder-blocks,a11y_dependencies,"jest-axe, eslint-plugin-jsx-a11y, addon-a11y","@storybook/addon-a11y, eslint-plugin-jsx-a11y, jest-axe"
+Utrecht Design System (Municipality of Utrecht),https://github.com/nl-design-system/utrecht,token_format,DTCG ($value); CSS custom properties,DTCG ($value)
+Utrecht Design System (Municipality of Utrecht),https://github.com/nl-design-system/utrecht,token_css_vars,90,164
+Utrecht Design System (Municipality of Utrecht),https://github.com/nl-design-system/utrecht,components_strict,1,0
+Utrecht Design System (Municipality of Utrecht),https://github.com/nl-design-system/utrecht,component_dirs,129,3
+Utrecht Design System (Municipality of Utrecht),https://github.com/nl-design-system/utrecht,stories_files,523,474
+Utrecht Design System (Municipality of Utrecht),https://github.com/nl-design-system/utrecht,storybook,no,yes
+Utrecht Design System (Municipality of Utrecht),https://github.com/nl-design-system/utrecht,visual_regression,none detected,playwright
+Utrecht Design System (Municipality of Utrecht),https://github.com/nl-design-system/utrecht,a11y_dependencies,none detected,@storybook/addon-a11y
+Utrecht Design System (Municipality of Utrecht),https://github.com/nl-design-system/utrecht,frameworks,none detected,"React, Vue, Angular"
+Paragon (Open edX),https://github.com/openedx/paragon,token_format,DTCG ($value); Style Dictionary,none detected
+Paragon (Open edX),https://github.com/openedx/paragon,components_strict,5,0
+Paragon (Open edX),https://github.com/openedx/paragon,component_dirs,13,0
+Government of Ireland Design System (GOV.IE),https://github.com/ogcio/govie-ds,token_format,DTCG ($value); Style Dictionary,none detected
+Government of Ireland Design System (GOV.IE),https://github.com/ogcio/govie-ds,component_dirs,9,0
+Government of Ireland Design System (GOV.IE),https://github.com/ogcio/govie-ds,visual_regression,"chromatic, @playwright/test, playwright","@playwright/test, chromatic"
+Government of Ireland Design System (GOV.IE),https://github.com/ogcio/govie-ds,a11y_dependencies,"axe-core, addon-a11y","@storybook/addon-a11y, axe-core"
+"Designsystemet (Digdir, Norway)",https://github.com/digdir/designsystemet,token_format,DTCG ($value); Style Dictionary,none detected
+"Designsystemet (Digdir, Norway)",https://github.com/digdir/designsystemet,components_strict,43,42
+"Designsystemet (Digdir, Norway)",https://github.com/digdir/designsystemet,component_dirs,86,47
+"Designsystemet (Digdir, Norway)",https://github.com/digdir/designsystemet,test_files,85,90
+"Designsystemet (Digdir, Norway)",https://github.com/digdir/designsystemet,visual_regression,"chromatic, playwright",chromatic
+"Designsystemet (Digdir, Norway)",https://github.com/digdir/designsystemet,a11y_dependencies,addon-a11y,none detected
+Försäkringskassans designsystem (Sweden),https://github.com/Forsakringskassan/designsystem,token_format,none detected,CSS custom properties
+Försäkringskassans designsystem (Sweden),https://github.com/Forsakringskassan/designsystem,token_css_vars,0,11
+Försäkringskassans designsystem (Sweden),https://github.com/Forsakringskassan/designsystem,component_dirs,122,255
+Försäkringskassans designsystem (Sweden),https://github.com/Forsakringskassan/designsystem,test_files,289,290
+SSB designsystem (Statistics Norway),https://github.com/statisticsnorway/ssb-designsystem,token_format,DTCG ($value),none detected
+SSB designsystem (Statistics Norway),https://github.com/statisticsnorway/ssb-designsystem,component_dirs,2,1
+SSB designsystem (Statistics Norway),https://github.com/statisticsnorway/ssb-designsystem,stories_files,95,46
+SSB designsystem (Statistics Norway),https://github.com/statisticsnorway/ssb-designsystem,storybook,yes,no
+SSB designsystem (Statistics Norway),https://github.com/statisticsnorway/ssb-designsystem,visual_regression,chromatic,none detected
+GC Design System tokens (Government of Canada),https://github.com/cds-snc/gcds-tokens,token_format,Style Dictionary,none detected
+GC Design System tokens (Government of Canada),https://github.com/cds-snc/gcds-tokens,component_dirs,38,0
+NHS.UK frontend,https://github.com/nhsuk/nhsuk-frontend,components_strict,13,0
+NHS.UK frontend,https://github.com/nhsuk/nhsuk-frontend,component_dirs,49,1
+NHS.UK frontend,https://github.com/nhsuk/nhsuk-frontend,visual_regression,"backstop, playwright",none detected
+NHS.UK frontend,https://github.com/nhsuk/nhsuk-frontend,a11y_dependencies,"axe-core, jest-axe, @axe-core",axe-core
+NHS App frontend,https://github.com/nhsuk/nhsapp-frontend,component_dirs,7,9
+NHS.UK React components (NHS Digital),https://github.com/NHSDigital/nhsuk-react-components,component_dirs,7,141
+NHS.UK React components (NHS Digital),https://github.com/NHSDigital/nhsuk-react-components,stories_files,48,41
+NHS.UK React components (NHS Digital),https://github.com/NHSDigital/nhsuk-react-components,a11y_dependencies,"jest-axe, eslint-plugin-jsx-a11y","eslint-plugin-jsx-a11y, jest-axe"
+Instructure UI (Canvas LMS),https://github.com/instructure/instructure-ui,component_dirs,2,0
+Instructure UI (Canvas LMS),https://github.com/instructure/instructure-ui,a11y_dependencies,none detected,axe-core
+Amsterdam Design System (City of Amsterdam),https://github.com/Amsterdam/design-system,token_format,DTCG ($value); Style Dictionary,DTCG ($value)
+Amsterdam Design System (City of Amsterdam),https://github.com/Amsterdam/design-system,token_css_vars,0,10
+Amsterdam Design System (City of Amsterdam),https://github.com/Amsterdam/design-system,component_dirs,149,78
+Amsterdam Design System (City of Amsterdam),https://github.com/Amsterdam/design-system,storybook,no,yes
+Amsterdam Design System (City of Amsterdam),https://github.com/Amsterdam/design-system,a11y_dependencies,addon-a11y,@storybook/addon-a11y
+Product Kit Core (Mercedes-Benz),https://github.com/mercedes-benz/product-kit_core,token_format,Style Dictionary,none detected
+WISE Design System (Education),https://github.com/WISE-Community/WISE-Design-System,components_strict,3,0
+WISE Design System (Education),https://github.com/WISE-Community/WISE-Design-System,component_dirs,3,0
+WISE Design System (Education),https://github.com/WISE-Community/WISE-Design-System,a11y_dependencies,addon-a11y,@storybook/addon-a11y
+MUI (Material UI),https://github.com/mui/material-ui,token_format,none detected,CSS custom properties
+MUI (Material UI),https://github.com/mui/material-ui,token_css_vars,0,142
+MUI (Material UI),https://github.com/mui/material-ui,components_strict,64,0
+MUI (Material UI),https://github.com/mui/material-ui,component_dirs,86,0
+MUI (Material UI),https://github.com/mui/material-ui,test_files,632,634
+Vuetify,https://github.com/vuetifyjs/vuetify,components_strict,107,106
+Vuetify,https://github.com/vuetifyjs/vuetify,component_dirs,126,220
+Vuetify,https://github.com/vuetifyjs/vuetify,semver_tags,698,700
+Vuetify,https://github.com/vuetifyjs/vuetify,latest_tag,v4.3.3,v4.3.4
+Quasar Framework,https://github.com/quasarframework/quasar,components_strict,1,0
+Quasar Framework,https://github.com/quasarframework/quasar,component_dirs,86,0
+Bulma,https://github.com/jgthms/bulma,frameworks,React,none detected
+PrimeVue,https://github.com/primefaces/primevue,components_strict,1,0
+PrimeVue,https://github.com/primefaces/primevue,component_dirs,9,0
+Element Plus,https://github.com/element-plus/element-plus,token_format,none detected,CSS custom properties
+Element Plus,https://github.com/element-plus/element-plus,token_css_vars,0,20
+Element Plus,https://github.com/element-plus/element-plus,components_strict,123,0
+Element Plus,https://github.com/element-plus/element-plus,component_dirs,137,0
+PatternFly,https://github.com/patternfly/patternfly,component_dirs,103,0
+PatternFly,https://github.com/patternfly/patternfly,visual_regression,"backstop, playwright",none detected
+daisyUI,https://github.com/saadeghi/daisyui,token_format,none detected,CSS custom properties
+daisyUI,https://github.com/saadeghi/daisyui,token_css_vars,0,6
+daisyUI,https://github.com/saadeghi/daisyui,component_dirs,76,2
+daisyUI,https://github.com/saadeghi/daisyui,frameworks,"React, Vue, Svelte",Svelte
+Kumo (Cloudflare),https://github.com/Cloudflare/kumo,token_format,none detected,CSS custom properties
+Kumo (Cloudflare),https://github.com/Cloudflare/kumo,token_css_vars,0,186
+Kumo (Cloudflare),https://github.com/Cloudflare/kumo,component_dirs,53,60
+U.S. General Services Administration design system (USDS),https://github.com/GSA-TTS/usds,components_strict,1,0
+U.S. General Services Administration design system (USDS),https://github.com/GSA-TTS/usds,component_dirs,1,0
+"CAMP Design System (Open Government Products, Singapore)",https://github.com/opengovsg/camp-design-system,token_format,Style Dictionary,none detected
+"CAMP Design System (Open Government Products, Singapore)",https://github.com/opengovsg/camp-design-system,components_strict,6,0
+"CAMP Design System (Open Government Products, Singapore)",https://github.com/opengovsg/camp-design-system,component_dirs,6,0
+"CAMP Design System (Open Government Products, Singapore)",https://github.com/opengovsg/camp-design-system,a11y_dependencies,addon-a11y,@storybook/addon-a11y
+Uniform Design System (Open Colleges),https://github.com/opencolleges/Uniform,a11y_dependencies,"eslint-plugin-jsx-a11y, addon-a11y","@storybook/addon-a11y, eslint-plugin-jsx-a11y"
+Rivet (Indiana University),https://github.com/indiana-university/rivet-source,token_format,Style Dictionary,none detected
+Rivet (Indiana University),https://github.com/indiana-university/rivet-source,component_dirs,39,0
+Rivet (Indiana University),https://github.com/indiana-university/rivet-source,latest_tag,v3.0.0-alpha.9,v3.0.0-alpha.10
+Spark Design System (Rocket Mortgage),https://github.com/sparkdesignsystem/spark-design-system,token_format,Style Dictionary,none detected
+Spark Design System (Rocket Mortgage),https://github.com/sparkdesignsystem/spark-design-system,components_strict,56,0
+Spark Design System (Rocket Mortgage),https://github.com/sparkdesignsystem/spark-design-system,component_dirs,79,2
+Spark Design System (Rocket Mortgage),https://github.com/sparkdesignsystem/spark-design-system,a11y_dependencies,"eslint-plugin-jsx-a11y, addon-a11y","@storybook/addon-a11y, eslint-plugin-jsx-a11y"
+Spark Design System (Rocket Mortgage),https://github.com/sparkdesignsystem/spark-design-system,latest_tag,v2.1.0,2.1.0
+Astryx (Meta),https://github.com/meta/astryx,token_format,none detected,CSS custom properties
+Astryx (Meta),https://github.com/meta/astryx,token_css_vars,0,886
+Astryx (Meta),https://github.com/meta/astryx,components_strict,1,0
+Astryx (Meta),https://github.com/meta/astryx,component_dirs,297,0
+Astryx (Meta),https://github.com/meta/astryx,stories_files,319,317
+Astryx (Meta),https://github.com/meta/astryx,storybook,yes,no
+Astryx (Meta),https://github.com/meta/astryx,test_files,3209,3262
+Astryx (Meta),https://github.com/meta/astryx,a11y_dependencies,"axe-core, @axe-core",none detected
+UQ Design System (University of Queensland),https://github.com/uq-its-ss/design-system,components_strict,5,0
+UQ Design System (University of Queensland),https://github.com/uq-its-ss/design-system,component_dirs,49,0
+UQ Design System (University of Queensland),https://github.com/uq-its-ss/design-system,stories_files,162,86
+UQ Design System (University of Queensland),https://github.com/uq-its-ss/design-system,a11y_dependencies,addon-a11y,@storybook/addon-a11y
+Guardian Source (The Guardian),https://github.com/guardian/source,a11y_dependencies,"eslint-plugin-jsx-a11y, addon-a11y","@storybook/addon-a11y, eslint-plugin-jsx-a11y"
+Coinbase Design System (CDS),https://github.com/coinbase/cds,components_strict,23,0
+Coinbase Design System (CDS),https://github.com/coinbase/cds,component_dirs,42,0
+Coinbase Design System (CDS),https://github.com/coinbase/cds,a11y_dependencies,"jest-axe, eslint-plugin-jsx-a11y","eslint-plugin-jsx-a11y, jest-axe"
+GEL (BBC Global Experience Language),https://github.com/bbc/gel,component_dirs,28,0
+Bootstrap,https://github.com/twbs/bootstrap,token_css_vars,14,26
+Bootstrap,https://github.com/twbs/bootstrap,components_strict,1,0
+Bootstrap,https://github.com/twbs/bootstrap,component_dirs,6,0
+Tabler,https://github.com/tabler/tabler,token_format,none detected,CSS custom properties
+Tabler,https://github.com/tabler/tabler,token_css_vars,0,74
+Tabler,https://github.com/tabler/tabler,components_strict,1,0
+Tabler,https://github.com/tabler/tabler,component_dirs,10,0
+Vaadin Web Components,https://github.com/vaadin/web-components,token_format,none detected,CSS custom properties
+Vaadin Web Components,https://github.com/vaadin/web-components,token_css_vars,0,47
+Vaadin Web Components,https://github.com/vaadin/web-components,semver_tags,718,719
+Vaadin Web Components,https://github.com/vaadin/web-components,latest_tag,v25.4.0-alpha7,v25.4.0-beta1
+Arco Design (ByteDance),https://github.com/arco-design/arco-design,components_strict,87,0
+Arco Design (ByteDance),https://github.com/arco-design/arco-design,component_dirs,90,0
+Ionic Framework,https://github.com/ionic-team/ionic-framework,components_strict,97,2
+Ionic Framework,https://github.com/ionic-team/ionic-framework,component_dirs,101,6
+Ionic Framework,https://github.com/ionic-team/ionic-framework,visual_regression,"@playwright/test, playwright",@playwright/test
+Ionic Framework,https://github.com/ionic-team/ionic-framework,a11y_dependencies,"axe-core, @axe-core",none detected
+Ionic Framework,https://github.com/ionic-team/ionic-framework,frameworks,"React, Vue, Angular, Stencil","React, Vue, Angular"
+Ionic Framework,https://github.com/ionic-team/ionic-framework,latest_tag,v9.0.11,v9.0.12
+React Native Paper,https://github.com/callstack/react-native-paper,component_dirs,23,36
+React Native Paper,https://github.com/callstack/react-native-paper,test_files,63,64
+Material Web (Google),https://github.com/material-components/material-web,token_css_vars,1054,1072
+Material Web (Google),https://github.com/material-components/material-web,components_strict,16,0
+Material Web (Google),https://github.com/material-components/material-web,component_dirs,26,0
+Spectrum Web Components (Adobe),https://github.com/adobe/spectrum-web-components,token_css_vars,19176,5158
+Spectrum Web Components (Adobe),https://github.com/adobe/spectrum-web-components,components_strict,57,0
+Spectrum Web Components (Adobe),https://github.com/adobe/spectrum-web-components,component_dirs,60,0
+Spectrum Web Components (Adobe),https://github.com/adobe/spectrum-web-components,stories_files,224,225
+Spectrum Web Components (Adobe),https://github.com/adobe/spectrum-web-components,test_files,347,349
+Spectrum Web Components (Adobe),https://github.com/adobe/spectrum-web-components,visual_regression,"chromatic, @playwright/test, playwright","@playwright/test, chromatic"
+Spectrum Web Components (Adobe),https://github.com/adobe/spectrum-web-components,a11y_dependencies,"axe-core, addon-a11y, @axe-core",@storybook/addon-a11y
+Angular Material and CDK,https://github.com/angular/components,token_css_vars,1,8
+Angular Material and CDK,https://github.com/angular/components,components_strict,1,0
+Angular Material and CDK,https://github.com/angular/components,component_dirs,3,0
+Angular Material and CDK,https://github.com/angular/components,semver_tags,738,740
+Angular Material and CDK,https://github.com/angular/components,latest_tag,v22.3.0-rc.0,v22.4.0-next.0
+PrimeNG,https://github.com/primefaces/primeng,components_strict,2,0
+PrimeNG,https://github.com/primefaces/primeng,component_dirs,4,0
+PrimeNG,https://github.com/primefaces/primeng,semver_tags,344,343
+NG-ZORRO (Ant Design for Angular),https://github.com/NG-ZORRO/ng-zorro-antd,components_strict,81,0
+NG-ZORRO (Ant Design for Angular),https://github.com/NG-ZORRO/ng-zorro-antd,component_dirs,83,0
+Skeleton,https://github.com/skeletonlabs/skeleton,token_format,none detected,CSS custom properties
+Skeleton,https://github.com/skeletonlabs/skeleton,token_css_vars,0,429
+Skeleton,https://github.com/skeletonlabs/skeleton,components_strict,94,62
+Skeleton,https://github.com/skeletonlabs/skeleton,component_dirs,136,186
+Skeleton,https://github.com/skeletonlabs/skeleton,visual_regression,"@playwright/test, playwright",@playwright/test
+Spectrum CSS (Adobe),https://github.com/adobe/spectrum-css,token_format,CSS custom properties,none detected
+Spectrum CSS (Adobe),https://github.com/adobe/spectrum-css,token_css_vars,277,0
+Spectrum CSS (Adobe),https://github.com/adobe/spectrum-css,component_dirs,84,0
+Spectrum CSS (Adobe),https://github.com/adobe/spectrum-css,stories_files,85,84
+Spectrum CSS (Adobe),https://github.com/adobe/spectrum-css,a11y_dependencies,addon-a11y,@storybook/addon-a11y
+Headless UI (Tailwind Labs),https://github.com/tailwindlabs/headlessui,components_strict,88,78
+Headless UI (Tailwind Labs),https://github.com/tailwindlabs/headlessui,component_dirs,92,89
+Tamagui,https://github.com/tamagui/tamagui,token_format,none detected,CSS custom properties
+Tamagui,https://github.com/tamagui/tamagui,token_css_vars,0,1
+Tamagui,https://github.com/tamagui/tamagui,components_strict,3,0
+Tamagui,https://github.com/tamagui/tamagui,component_dirs,54,0
+Tamagui,https://github.com/tamagui/tamagui,visual_regression,"@playwright/test, playwright",@playwright/test
+Tamagui,https://github.com/tamagui/tamagui,a11y_dependencies,vitest-axe,none detected
+Tamagui,https://github.com/tamagui/tamagui,frameworks,React,none detected
+Tamagui,https://github.com/tamagui/tamagui,semver_tags,1433,1431
+Gluestack UI,https://github.com/gluestack/gluestack-ui,components_strict,11,0
+Gluestack UI,https://github.com/gluestack/gluestack-ui,component_dirs,62,305
+Gluestack UI,https://github.com/gluestack/gluestack-ui,latest_tag,v5.0.0-alpha.0,v5.0.0
+Park UI,https://github.com/cschroeter/park-ui,components_strict,6,0
+Park UI,https://github.com/cschroeter/park-ui,component_dirs,11,0
+Park UI,https://github.com/cschroeter/park-ui,storybook,yes,no
+Park UI,https://github.com/cschroeter/park-ui,a11y_dependencies,addon-a11y,none detected
+Park UI,https://github.com/cschroeter/park-ui,frameworks,"React, Vue",React
+Radix Themes,https://github.com/radix-ui/themes,token_format,CSS custom properties,none detected
+Radix Themes,https://github.com/radix-ui/themes,token_css_vars,1342,0
+Radix Themes,https://github.com/radix-ui/themes,visual_regression,"@playwright/test, playwright",none detected
+Ant Design Vue,https://github.com/vueComponent/ant-design-vue,token_format,none detected,CSS custom properties
+Ant Design Vue,https://github.com/vueComponent/ant-design-vue,token_css_vars,0,39
+Ant Design Vue,https://github.com/vueComponent/ant-design-vue,components_strict,108,0
+Ant Design Vue,https://github.com/vueComponent/ant-design-vue,component_dirs,114,0
+Theme UI,https://github.com/system-ui/theme-ui,components_strict,3,1
+Theme UI,https://github.com/system-ui/theme-ui,component_dirs,3,2
+Theme UI,https://github.com/system-ui/theme-ui,visual_regression,percy,none detected
+WordPress Gutenberg Design System,https://github.com/WordPress/gutenberg,token_format,DTCG ($value); CSS custom properties,CSS custom properties
+WordPress Gutenberg Design System,https://github.com/WordPress/gutenberg,token_css_vars,303,317
+WordPress Gutenberg Design System,https://github.com/WordPress/gutenberg,components_strict,444,432
+WordPress Gutenberg Design System,https://github.com/WordPress/gutenberg,component_dirs,463,684
+WordPress Gutenberg Design System,https://github.com/WordPress/gutenberg,stories_files,69,1
+WordPress Gutenberg Design System,https://github.com/WordPress/gutenberg,storybook,no,yes
+WordPress Gutenberg Design System,https://github.com/WordPress/gutenberg,test_files,1319,1322
+WordPress Gutenberg Design System,https://github.com/WordPress/gutenberg,visual_regression,@playwright/test,"@playwright/test, playwright"
+WordPress Gutenberg Design System,https://github.com/WordPress/gutenberg,a11y_dependencies,eslint-plugin-jsx-a11y,"@storybook/addon-a11y, eslint-plugin-jsx-a11y"
+WordPress Gutenberg Design System,https://github.com/WordPress/gutenberg,semver_tags,741,740
+Framework7,https://github.com/framework7io/framework7,components_strict,67,0
+Framework7,https://github.com/framework7io/framework7,component_dirs,68,0
+Flowbite Svelte,https://github.com/themesberg/flowbite-svelte,components_strict,42,0
+Flowbite Svelte,https://github.com/themesberg/flowbite-svelte,component_dirs,46,0
+Flowbite Svelte,https://github.com/themesberg/flowbite-svelte,test_files,30,18
+Flowbite Svelte,https://github.com/themesberg/flowbite-svelte,latest_tag,v2.0.0-next.9,v2.0.0-next.14
+Sanity Design System (Sanity UI),https://github.com/sanity-io/design-system,components_strict,10,0
+Sanity Design System (Sanity UI),https://github.com/sanity-io/design-system,component_dirs,12,0
+Sanity Design System (Sanity UI),https://github.com/sanity-io/design-system,storybook,yes,no
+Sanity Design System (Sanity UI),https://github.com/sanity-io/design-system,visual_regression,"@playwright/test, playwright",none detected
+Sanity Design System (Sanity UI),https://github.com/sanity-io/design-system,a11y_dependencies,"vitest-axe, addon-a11y",vitest-axe
+Helsinki Design System (City of Helsinki),https://github.com/City-of-Helsinki/helsinki-design-system,token_format,Style Dictionary; CSS custom properties,CSS custom properties
+Helsinki Design System (City of Helsinki),https://github.com/City-of-Helsinki/helsinki-design-system,components_strict,78,46
+Helsinki Design System (City of Helsinki),https://github.com/City-of-Helsinki/helsinki-design-system,visual_regression,"@playwright/test, playwright",@playwright/test
+Helsinki Design System (City of Helsinki),https://github.com/City-of-Helsinki/helsinki-design-system,a11y_dependencies,"axe-core, jest-axe, eslint-plugin-jsx-a11y, addon-a11y, @axe-core","@storybook/addon-a11y, eslint-plugin-jsx-a11y, jest-axe"
+HMCTS Design System,https://github.com/hmcts/hmcts-design-system,components_strict,1,0
+HMCTS Design System,https://github.com/hmcts/hmcts-design-system,component_dirs,33,0
+Primer CSS (GitHub),https://github.com/primer/css,component_dirs,1,0
+Primer CSS (GitHub),https://github.com/primer/css,stories_files,70,38
+BootstrapVue,https://github.com/bootstrap-vue/bootstrap-vue,component_dirs,53,60
+Flowbite React,https://github.com/themesberg/flowbite-react,components_strict,47,46
+Flowbite React,https://github.com/themesberg/flowbite-react,component_dirs,48,47
+Flowbite React,https://github.com/themesberg/flowbite-react,storybook,yes,no
+Onsen UI,https://github.com/onsenui/onsenui,token_format,none detected,CSS custom properties
+Onsen UI,https://github.com/onsenui/onsenui,token_css_vars,0,439
+Onsen UI,https://github.com/onsenui/onsenui,components_strict,1,0
+Onsen UI,https://github.com/onsenui/onsenui,component_dirs,1,0
+Kobalte,https://github.com/kobaltedev/kobalte,frameworks,none detected,Solid
+Nuxt UI,https://github.com/nuxt/ui,token_format,none detected,CSS custom properties
+Nuxt UI,https://github.com/nuxt/ui,token_css_vars,0,12
+Nuxt UI,https://github.com/nuxt/ui,components_strict,5,0
+Nuxt UI,https://github.com/nuxt/ui,component_dirs,26,0
+Nuxt UI,https://github.com/nuxt/ui,test_files,171,172
+MUI Base UI,https://github.com/mui/base-ui,token_format,none detected,CSS custom properties
+MUI Base UI,https://github.com/mui/base-ui,token_css_vars,0,26
+MUI Base UI,https://github.com/mui/base-ui,components_strict,47,0
+MUI Base UI,https://github.com/mui/base-ui,component_dirs,49,0
+MUI Base UI,https://github.com/mui/base-ui,visual_regression,"@playwright/test, playwright",@playwright/test

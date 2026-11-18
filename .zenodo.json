@@ -1,0 +1,22 @@
+{
+  "title": "Design System Artefacts Dataset",
+  "version": "1.0.0",
+  "upload_type": "dataset",
+  "description": "Measured artefacts of design systems and UI libraries in public GitHub repositories (220 repositories). Release values come from evidence run 20261118T112446Z (second check run 20261118T114444Z): one JSON file per repository with commit SHA, UTC timestamps, full tag list and every measured value. Rules, detection limits and reproduction steps are in README.md.",
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Aleksić, Stefan B.",
+      "orcid": "0009-0009-1537-296X"
+    }
+  ],
+  "keywords": [
+    "design systems",
+    "design tokens",
+    "UI libraries",
+    "software artefacts",
+    "GitHub"
+  ],
+  "language": "eng"
+}

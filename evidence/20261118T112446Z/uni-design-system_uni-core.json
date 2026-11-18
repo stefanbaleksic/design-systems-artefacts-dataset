@@ -1,0 +1,31 @@
+{
+  "name": "UNI Core (uni-design-system)",
+  "repository": "https://github.com/uni-design-system/uni-core",
+  "slug": "uni-design-system_uni-core",
+  "collected_utc": "2026-11-18T11:24:46Z",
+  "script": "collect/1.3",
+  "measured": "yes",
+  "commit": "9e31a2efdfc628ff90509bd0eaf92815c460ce0d",
+  "commit_date_utc": "2023-04-08T17:18:58Z",
+  "error": "",
+  "tags": [
+    "test_automation"
+  ],
+  "semver_tags": 0,
+  "latest_tag": "",
+  "storybook": "no",
+  "stories_files": 0,
+  "code_connect_files": 0,
+  "test_files": 0,
+  "codeowners": "no",
+  "rfc_or_adr": "no",
+  "npm_exports_field": "no",
+  "token_format": "none detected",
+  "token_css_vars": 0,
+  "component_dirs": 0,
+  "components_strict": 0,
+  "visual_regression": "none detected",
+  "a11y_dependencies": "none detected",
+  "a11y_check_files": 0,
+  "frameworks": "none detected"
+}

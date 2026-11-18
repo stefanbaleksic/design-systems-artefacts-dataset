@@ -1,0 +1,6 @@
+published_index,removed_name,removed_repository,kept_published_index,kept_name,reason
+63,Microsoft Fluent,https://github.com/microsoft/fluentui,40,Fluent UI,Same repository URL as an earlier row
+130,Mistica (Telefónica),https://github.com/Telefonica/mistica,95,Telefónica Mística,Same repository URL as an earlier row
+131,Polaris (Shopify),https://github.com/Shopify/polaris,89,Shopify Polaris,Same repository URL as an earlier row
+149,Porsche Design System,https://github.com/porsche-design-system/porsche-design-system,74,Porsche Design System,Same repository URL as an earlier row
+185,Skin (eBay),https://github.com/ebay/skin,33,eBay Skin,Same repository URL as an earlier row

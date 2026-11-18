@@ -1,0 +1,24 @@
+{
+  "evidence_run": "20261118T112446Z",
+  "rows": 220,
+  "changed_values": 636,
+  "rules": {
+    "storybook": "[documented] yes if .storybook/ exists or a storybook package is a dependency",
+    "stories_files": "[documented] files named *.stories.{js,jsx,ts,tsx,mdx}",
+    "code_connect_files": "[documented] files named *.figma.{js,jsx,ts,tsx}",
+    "test_files": "[reconstructed] files named *.test.* or *.spec.* (JS/TS)",
+    "codeowners": "[documented] CODEOWNERS in root, .github/ or docs/",
+    "rfc_or_adr": "[reconstructed] a directory named rfc(s), adr(s) or decisions",
+    "npm_exports_field": "[reconstructed] root package.json has an exports field",
+    "semver_tags": "[documented] remote tags that are semantic versions (with or without v)",
+    "latest_tag": "[documented] highest semantic version by precedence (semver 2.0.0)",
+    "token_format": "[reconstructed] token-named file with CSS custom properties or DTCG $value",
+    "token_css_vars": "[reconstructed] count of CSS custom property declarations in token files",
+    "component_dirs": "[reconstructed] component folders under src/components (proxy, low validity)",
+    "components_strict": "[reconstructed] component folders under src/components that contain an entry file (index.* or a file named after the folder)",
+    "visual_regression": "[reconstructed] visual tool dependencies found",
+    "a11y_dependencies": "[reconstructed] accessibility test dependencies found",
+    "a11y_check_files": "[reconstructed] JS/TS files under 300 kB that configure or call an accessibility checker (axe-core, jest-axe, vitest-axe, pa11y, Storybook a11y addon)",
+    "frameworks": "[reconstructed] framework dependencies found"
+  }
+}

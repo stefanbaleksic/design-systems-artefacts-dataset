@@ -1,0 +1,31 @@
+{
+  "name": "Radix Themes",
+  "repository": "https://github.com/radix-ui/themes",
+  "slug": "radix-ui_themes",
+  "collected_utc": "2026-11-18T11:24:46Z",
+  "script": "collect/1.3",
+  "measured": "yes",
+  "commit": "1faff10ac26ae17f09944d418c6949b93fc6b566",
+  "commit_date_utc": "2026-04-11T18:39:08Z",
+  "error": "",
+  "tags": [
+    "3.3.0"
+  ],
+  "semver_tags": 1,
+  "latest_tag": "3.3.0",
+  "storybook": "no",
+  "stories_files": 0,
+  "code_connect_files": 0,
+  "test_files": 1,
+  "codeowners": "no",
+  "rfc_or_adr": "no",
+  "npm_exports_field": "no",
+  "token_format": "none detected",
+  "token_css_vars": 0,
+  "component_dirs": 1,
+  "components_strict": 0,
+  "visual_regression": "none detected",
+  "a11y_dependencies": "eslint-plugin-jsx-a11y",
+  "a11y_check_files": 0,
+  "frameworks": "React"
+}

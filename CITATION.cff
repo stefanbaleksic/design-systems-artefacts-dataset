@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata below."
+type: dataset
+title: "Design System Artefacts Dataset"
+version: 1.0.0
+license: CC-BY-4.0
+authors:
+  - family-names: Aleksić
+    given-names: Stefan B.
+    orcid: "https://orcid.org/0009-0009-1537-296X"
+abstract: >-
+  Measured artefacts of design systems and UI libraries in public GitHub repositories:
+  design tokens, components, stories, Storybook, Figma Code Connect, tests, accessibility
+  checkers, governance files, frameworks, npm exports field and semantic-version tags.
+  Release values come from a dated evidence run, one JSON file per repository.
+keywords:
+  - design systems
+  - design tokens
+  - UI libraries
+  - software artefacts
